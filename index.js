@@ -165,7 +165,7 @@ buscarInfo('https://rickandmortyapi.com/api/character')
 // pasan la maqueta de html a javascript 
 // USEN SASS 
 
-// // comunicandonos con la api de marvel 
+// // comunicandonos con la api de marvel EN CLASE 75 ARREGLAMOS EL PROBLEMA, PORQUE NO ESTABA ANDANDO:
 
 // fetch("https://gateway.marvel.com/v1/public/comics?apikey=cdf503fce8f2c519f899f64cff25fd79&offset=0&orderBy=title")
 // .then((data) => {
