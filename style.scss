@@ -1,0 +1,33 @@
+section {
+    display: flex;
+    flex-wrap: wrap;
+    article {
+      width: 600px;
+      height: 230px;
+      background-color: #333333;
+      border-radius: 20px;
+      color: #fff;
+      display: flex;
+      margin: 20px;
+  
+      .imagen {
+        width: 40%;
+        overflow: hidden;
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+  
+      .info {
+        padding: 20px;
+        .estado {
+          display: flex;
+        }
+      }
+    }
+  
+    p {
+      margin: 0;
+    }
+}

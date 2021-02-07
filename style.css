@@ -1,0 +1,32 @@
+section {
+  display: flex;
+  flex-wrap: wrap;
+}
+section article {
+  width: 600px;
+  height: 230px;
+  background-color: #333333;
+  border-radius: 20px;
+  color: #fff;
+  display: flex;
+  margin: 20px;
+}
+section article .imagen {
+  width: 40%;
+  overflow: hidden;
+}
+section article .imagen img {
+  width: 100%;
+  height: auto;
+}
+section article .info {
+  padding: 20px;
+}
+section article .info .estado {
+  display: flex;
+}
+section p {
+  margin: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
